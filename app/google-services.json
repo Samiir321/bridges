@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1026046693125",
+    "project_id": "bridges-2d885",
+    "storage_bucket": "bridges-2d885.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026046693125:android:70069f84cd4670323f316c",
+        "android_client_info": {
+          "package_name": "com.example.bridges"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO00bAfP2OmSRM4YD4AuBgGi3merCQTkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
